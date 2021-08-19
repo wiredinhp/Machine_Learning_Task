@@ -29,11 +29,11 @@ As in first part here too we have been given two loss functions to analyse the l
 the two loss functions. Let's first look at the models using the two loss functions as their criterion and their various plots.
 ### a)L4 function (power 4)
 Firstly let's have a look at our solution i.e. the plot showing aur linear regression model.
-![Alt Text](https://github.com/wiredinhp/Machine_Learning_Task/blob/main/plot_linear_c.png) <br>
+![Alt Text](https://github.com/wiredinhp/Machine_Learning_Task/blob/main/plot_polynomial_c.png) <br>
 We can see that the plot looks good and seems to fit the data.
 ### b)L7 function (power 7)
 Again let's have a look at our solution i.e. the plot showing aur linear regression model.
-![Alt Text](https://github.com/wiredinhp/Machine_Learning_Task/blob/main/plot_linear_d.png) <br>
+![Alt Text](https://github.com/wiredinhp/Machine_Learning_Task/blob/main/plot_polynomial_d.png) <br>
 We can see that the plot looks good and seems to fit the data.<br>
 We have worked with 4 degree and 7 degree loss functions . As seen in Linear regression,
 here too - the 7 degree loss drastically increases the value in case of outliers
